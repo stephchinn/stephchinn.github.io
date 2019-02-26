@@ -41,8 +41,7 @@
 	.topnav a:hover
 		{color:#ffffff;}
 	.topnav a.active
-		{color:#ffffff;
-		font-style:bold;}
+		{color:#ffffff;}
 	.sidenav 
 		{float:left;
 		width:150px;
@@ -53,8 +52,7 @@
 	.sidenav a
 		{color:#333333;}
 	.sidenav a:hover
-		{color:#000000;
-		font-style:bold;}
+		{color:#000000;}
 	.main
 		{margin-left: 170px;
 		text-align:left;
