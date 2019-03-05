@@ -28,8 +28,8 @@
     td, th 
         {border: 1px solid #888888;
         padding: 0.5em;}
-    .question
+    .question1, .question2, .question3
         {width:90%;}
-    .avgres
+    .avgres1, .avgres2, .avgres3
         {width:10%;}
 	
