@@ -28,4 +28,8 @@
     td, th 
         {border: 1px solid #888888;
         padding: 0.5em;}
+    .questions
+        {width:90%;}
+    .avgres
+        {width:10%;}
 	
