@@ -104,3 +104,9 @@
 		font-size: small;}
 	.citation
 		{font-size: small;}
+	blockquote
+		{font-size: small;
+		font-style: italic;}
+	table
+		{float: right;
+		text-align: center;}
